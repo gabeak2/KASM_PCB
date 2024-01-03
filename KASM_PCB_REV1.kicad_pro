@@ -337,11 +337,15 @@
     ],
     [
       "04e958db-aa3d-41e7-905b-1283accbf3a5",
-      "DRIVERS"
+      "Drivers"
     ],
     [
       "80242540-a894-41cd-9271-092fc8314d9a",
-      "CONNECTORS"
+      "Connectors"
+    ],
+    [
+      "8b303a3c-3f2a-43c7-97a7-f3bcfa393950",
+      "Analog"
     ]
   ],
   "text_variables": {}
