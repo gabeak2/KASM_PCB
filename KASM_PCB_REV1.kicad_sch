@@ -1,0 +1,104 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid bcd76057-59fd-41c5-bb52-9bafb2ef74e0)
+
+  (paper "B")
+
+  (title_block
+    (rev "1")
+    (company "UC Observatories")
+  )
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 288.29 17.78) (size 130.81 86.36)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 04e958db-aa3d-41e7-905b-1283accbf3a5)
+    (property "Sheetname" "Drivers" (at 287.02 30.48 0)
+      (effects (font (size 10 10)) (justify left bottom))
+    )
+    (property "Sheetfile" "KASM_PCB_REV1_DRIVERS.kicad_sch" (at 288.29 104.7246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "KASM_PCB_REV1"
+        (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0" (page "4"))
+      )
+    )
+  )
+
+  (sheet (at 15.24 114.3) (size 130.81 86.36)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 80242540-a894-41cd-9271-092fc8314d9a)
+    (property "Sheetname" "Connectors" (at 13.97 128.27 0)
+      (effects (font (size 10 10)) (justify left bottom))
+    )
+    (property "Sheetfile" "KASM_PCB_REV1_CONNECTORS.kicad_sch" (at 15.24 201.2446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "KASM_PCB_REV1"
+        (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0" (page "5"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 114.3) (size 130.81 86.36)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 8b303a3c-3f2a-43c7-97a7-f3bcfa393950)
+    (property "Sheetname" "Analog" (at 152.4 128.27 0)
+      (effects (font (size 10 10)) (justify left bottom))
+    )
+    (property "Sheetfile" "KASM_PCB_ANALOG.kicad_sch" (at 152.4 186.0046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "KASM_PCB_REV1"
+        (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0" (page "6"))
+      )
+    )
+  )
+
+  (sheet (at 15.24 17.78) (size 130.81 86.36)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9f28d78d-ca42-4041-9be6-b996c46b4a0a)
+    (property "Sheetname" "Power" (at 15.24 31.75 0)
+      (effects (font (size 10 10)) (justify left bottom))
+    )
+    (property "Sheetfile" "KASM_PCB_REV1_POWER.kicad_sch" (at 15.24 104.7246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "KASM_PCB_REV1"
+        (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0" (page "2"))
+      )
+    )
+  )
+
+  (sheet (at 152.4 17.78) (size 130.81 86.36)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid da6e1dd6-6549-4588-8765-3ff657cbe17b)
+    (property "Sheetname" "MCU" (at 151.13 30.48 0)
+      (effects (font (size 10 10)) (justify left bottom))
+    )
+    (property "Sheetfile" "KASM_PCB_REV1_MCU.kicad_sch" (at 152.4 104.7246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (instances
+      (project "KASM_PCB_REV1"
+        (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0" (page "3"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

@@ -1,0 +1,15 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid d9bf1f14-7a27-4c7d-a8ab-9c894c0853fd)
+
+  (paper "A4")
+
+  (title_block
+    (rev "1")
+    (company "UC Observatories")
+  )
+
+  (lib_symbols
+  )
+
+)
