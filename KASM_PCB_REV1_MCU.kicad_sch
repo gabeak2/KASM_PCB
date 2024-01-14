@@ -4559,8 +4559,8 @@
     (property "LCSC" "C25744" (at 160.02 67.31 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid f5f4db4d-a1f1-4702-beb0-9fd23fe0aedd))
-    (pin "2" (uuid 02f168f2-78ea-4dc6-a0c4-1d277e113e89))
+    (pin "1" (uuid 3caf6fa2-b292-4991-a3bd-277dfac81bd8))
+    (pin "2" (uuid cd5b44ed-1f62-4ecc-8054-fd48b8ca8eb0))
     (instances
       (project "KASM_PCB_REV1"
         (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0/9f28d78d-ca42-4041-9be6-b996c46b4a0a"
@@ -4672,8 +4672,8 @@
     (property "LCSC" "C51942" (at 262.89 74.93 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 5ac7d71c-decf-49e1-a70d-4caae20cceb7))
-    (pin "2" (uuid 682d33a1-cec3-41c5-bf3a-448e24810a40))
+    (pin "1" (uuid 5d18e28b-469e-4dfd-bbe6-af3dd11bf63e))
+    (pin "2" (uuid 78aa3947-3144-4b05-ba31-35c03609a00f))
     (instances
       (project "KASM_PCB_REV1"
         (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0"
@@ -5659,38 +5659,6 @@
     )
   )
 
-  (symbol (lib_id "Device:C_Small") (at 246.38 78.74 0) (unit 1)
-    (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
-    (uuid b7cf1bad-1292-45af-86a6-6fead4583c7a)
-    (property "Reference" "C1" (at 248.7041 77.5342 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Value" "10uF" (at 248.7041 79.9584 0)
-      (effects (font (size 1.27 1.27)) (justify left))
-    )
-    (property "Footprint" "Capacitor_SMD:C_1206_3216Metric" (at 246.38 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (at 246.38 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "LCSC" "C454102" (at 246.38 78.74 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 54076654-309c-45e6-8cc1-7d12eac9895d))
-    (pin "2" (uuid 2016c47b-576e-44e0-89b1-c8e7e259cf0a))
-    (instances
-      (project "KASM_PCB_REV1"
-        (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0"
-          (reference "C1") (unit 1)
-        )
-        (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0/da6e1dd6-6549-4588-8765-3ff657cbe17b"
-          (reference "C30") (unit 1)
-        )
-      )
-    )
-  )
-
   (symbol (lib_id "Device:C_Small") (at 317.5 44.45 0) (mirror y) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b99f4d64-587e-41e4-9e0d-95781757601f)
@@ -5875,6 +5843,38 @@
         )
         (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0/da6e1dd6-6549-4588-8765-3ff657cbe17b"
           (reference "C22") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Device:C_Small") (at 246.38 78.74 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid ca2f014c-ebf5-4895-99d0-2d4902865583)
+    (property "Reference" "C9" (at 248.7041 77.5215 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Value" "4.7uF" (at 248.7041 79.9457 0)
+      (effects (font (size 1.27 1.27)) (justify right))
+    )
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 246.38 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 246.38 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "C23733" (at 246.38 78.74 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 638f874c-785a-4784-8d8c-9b10a830d978))
+    (pin "2" (uuid 88bb4a8f-b793-49f8-8c87-11565a030b26))
+    (instances
+      (project "KASM_PCB_REV1"
+        (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0"
+          (reference "C9") (unit 1)
+        )
+        (path "/bcd76057-59fd-41c5-bb52-9bafb2ef74e0/da6e1dd6-6549-4588-8765-3ff657cbe17b"
+          (reference "C30") (unit 1)
         )
       )
     )

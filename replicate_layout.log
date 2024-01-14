@@ -1,0 +1,74 @@
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 392:Plugin executed on: 'win32'
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 393:Plugin executed with python version: '3.9.16 (main, Aug  8 2023, 05:38:28) [MSC v.1936 64 bit (AMD64)]'
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 394:KiCad build version: 7.0.7
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 395:Plugin version: 2.1.3
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 396:Frame repr: <wx._core.Frame object at 0x0000012E3966CEE0>
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 420:Preparing replicator with J35 as a reference
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 117:getting a list of all footprints on board
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 468:source anchor footprint is 'J35'
+Located on: ['Drivers', 'c1']
+With filenames: ['KASM_PCB_REV1_DRIVERS.kicad_sch', 'c1.kicad_sch']
+With sheet_id:['Drivers', 'c1']
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 475:Corresponding footprints are 
+[('J59', ['Drivers', 'b2']), ('J58', ['Drivers', 'c25']), ('J57', ['Drivers', 'c24']), ('J56', ['Drivers', 'c23']), ('J55', ['Drivers', 'c22']), ('J54', ['Drivers', 'c21']), ('J53', ['Drivers', 'c20']), ('J52', ['Drivers', 'c19']), ('J51', ['Drivers', 'c18']), ('J50', ['Drivers', 'c17']), ('J49', ['Drivers', 'c16']), ('J48', ['Drivers', 'c15']), ('J47', ['Drivers', 'c14']), ('J46', ['Drivers', 'c13']), ('J45', ['Drivers', 'c12']), ('J44', ['Drivers', 'c11']), ('J43', ['Drivers', 'c10']), ('J42', ['Drivers', 'c9']), ('J41', ['Drivers', 'c8']), ('J40', ['Drivers', 'c7']), ('J39', ['Drivers', 'c6']), ('J38', ['Drivers', 'c5']), ('J37', ['Drivers', 'c4']), ('J36', ['Drivers', 'c3']), ('J8', ['Drivers', 'c2']), ('J35', ['Drivers', 'c1']), ('J13', ['Drivers', 'b1'])]
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 487:Showing dialog
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'c1', file:'c1.kicad_sch'
+01-13 20:26:41 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['Drivers', 'b1'], ['Drivers', 'b2'], ['Drivers', 'c10'], ['Drivers', 'c11'], ['Drivers', 'c12'], ['Drivers', 'c13'], ['Drivers', 'c14'], ['Drivers', 'c15'], ['Drivers', 'c16'], ['Drivers', 'c17'], ['Drivers', 'c18'], ['Drivers', 'c19'], ['Drivers', 'c2'], ['Drivers', 'c20'], ['Drivers', 'c21'], ['Drivers', 'c22'], ['Drivers', 'c23'], ['Drivers', 'c24'], ['Drivers', 'c25'], ['Drivers', 'c3'], ['Drivers', 'c4'], ['Drivers', 'c5'], ['Drivers', 'c6'], ['Drivers', 'c7'], ['Drivers', 'c8'], ['Drivers', 'c9']]
+01-13 20:26:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['Drivers', 'c1']
+01-13 20:26:42 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+01-13 20:26:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 493:Toolbar position: wx.Point(-46, 90)
+01-13 20:26:42 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 498:Dialog position: wx.Point(-485, 90)
+01-13 20:26:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'Drivers', file:'KASM_PCB_REV1_DRIVERS.kicad_sch'
+01-13 20:26:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[]
+01-13 20:26:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['Drivers']
+01-13 20:26:45 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+01-13 20:26:46 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'c1', file:'c1.kicad_sch'
+01-13 20:26:46 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['Drivers', 'b1'], ['Drivers', 'b2'], ['Drivers', 'c10'], ['Drivers', 'c11'], ['Drivers', 'c12'], ['Drivers', 'c13'], ['Drivers', 'c14'], ['Drivers', 'c15'], ['Drivers', 'c16'], ['Drivers', 'c17'], ['Drivers', 'c18'], ['Drivers', 'c19'], ['Drivers', 'c2'], ['Drivers', 'c20'], ['Drivers', 'c21'], ['Drivers', 'c22'], ['Drivers', 'c23'], ['Drivers', 'c24'], ['Drivers', 'c25'], ['Drivers', 'c3'], ['Drivers', 'c4'], ['Drivers', 'c5'], ['Drivers', 'c6'], ['Drivers', 'c7'], ['Drivers', 'c8'], ['Drivers', 'c9']]
+01-13 20:26:46 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1464:Level selected: ['Drivers', 'c1']
+01-13 20:26:46 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 424:constructing a list of sheets suitable for replication on level:'c1', file:'c1.kicad_sch'
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 461:suitable sheets are:[['Drivers', 'b1'], ['Drivers', 'b2'], ['Drivers', 'c10'], ['Drivers', 'c11'], ['Drivers', 'c12'], ['Drivers', 'c13'], ['Drivers', 'c14'], ['Drivers', 'c15'], ['Drivers', 'c16'], ['Drivers', 'c17'], ['Drivers', 'c18'], ['Drivers', 'c19'], ['Drivers', 'c2'], ['Drivers', 'c20'], ['Drivers', 'c21'], ['Drivers', 'c22'], ['Drivers', 'c23'], ['Drivers', 'c24'], ['Drivers', 'c25'], ['Drivers', 'c3'], ['Drivers', 'c4'], ['Drivers', 'c5'], ['Drivers', 'c6'], ['Drivers', 'c7'], ['Drivers', 'c8'], ['Drivers', 'c9']]
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 240:Replicating layout
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 240:Starting replication of sheets: [['Drivers', 'b2']]
+on level: ['Drivers', 'c1']
+with tracks=True, zone=True, text=True, text=True, intersecting=False, remove=False, locked footprints=False, group_only=False
+01-13 20:27:16 root 332:updating GUI message: 'Preparing for replication'
+01-13 20:27:16 root 337:updating GUI with: 0
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 310:Getting the list of source footprints
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 320:Getting the list of all the remaining footprints
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 327:Getting source tracks
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1299:Filtering list of tracks
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 331:Getting source zones
+01-13 20:27:16 root 337:updating GUI with: 50
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 335:Getting source text items
+01-13 20:27:16 root 337:updating GUI with: 66
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 339:Getting source drawing items
+01-13 20:27:16 root 332:updating GUI message: 'Replicating footprints'
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 806:Replicating footprints
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 813:Replicating footprints on sheet ['Drivers', 'b2']
+01-13 20:27:16 root 332:updating GUI message: 'Replicating tracks'
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 977:Replicating tracks
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 983:Replicating tracks on sheet ['Drivers', 'b2']
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 750:Significant difference between src net: ['', 'Drivers', 'c1', 'REF'] and dst net: ['', 'Drivers', 'b2', 'REF'], with src_net_depth=4, dst_net_depth=4, src_fp_depth=2, dst_fp_depth=2, match level 0.75
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 750:Significant difference between src net: ['', 'Drivers', 'c1', 'EN'] and dst net: ['', 'Drivers', 'b2', 'EN'], with src_net_depth=4, dst_net_depth=4, src_fp_depth=2, dst_fp_depth=2, match level 0.75
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Drivers', 'b2'] :[('/Drivers/c1/EN', '/Drivers/b2/EN'), ('Net-(C95-Pad1)', 'Net-(C143-Pad1)'), ('Net-(J35-Pin_2)', 'Net-(J59-Pin_2)'), ('+1V8', '+1V8'), ('unconnected-(U12-PWM-Pad2)', 'unconnected-(U57-PWM-Pad2)'), ('Net-(U12-SENSEA)', 'Net-(U57-SENSEA)'), ('Net-(U12-TOFF)', 'Net-(U57-TOFF)'), ('/Drivers/c1/REF', '/Drivers/b2/REF'), ('unconnected-(U12-PH-Pad1)', 'unconnected-(U57-PH-Pad1)'), ('Net-(J35-Pin_1)', 'Net-(J59-Pin_1)'), ('GND', 'GND')]
+01-13 20:27:16 root 332:updating GUI message: 'Replicating zones'
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1047:Replicating zones
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1054:Replicating zones on sheet ['Drivers', 'b2']
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 750:Significant difference between src net: ['', 'Drivers', 'c1', 'REF'] and dst net: ['', 'Drivers', 'b2', 'REF'], with src_net_depth=4, dst_net_depth=4, src_fp_depth=2, dst_fp_depth=2, match level 0.75
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 750:Significant difference between src net: ['', 'Drivers', 'c1', 'EN'] and dst net: ['', 'Drivers', 'b2', 'EN'], with src_net_depth=4, dst_net_depth=4, src_fp_depth=2, dst_fp_depth=2, match level 0.75
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 766:Net pairs for sheet ['Drivers', 'b2'] :[('/Drivers/c1/EN', '/Drivers/b2/EN'), ('Net-(C95-Pad1)', 'Net-(C143-Pad1)'), ('Net-(J35-Pin_2)', 'Net-(J59-Pin_2)'), ('+1V8', '+1V8'), ('unconnected-(U12-PWM-Pad2)', 'unconnected-(U57-PWM-Pad2)'), ('Net-(U12-SENSEA)', 'Net-(U57-SENSEA)'), ('Net-(U12-TOFF)', 'Net-(U57-TOFF)'), ('/Drivers/c1/REF', '/Drivers/b2/REF'), ('unconnected-(U12-PH-Pad1)', 'unconnected-(U57-PH-Pad1)'), ('Net-(J35-Pin_1)', 'Net-(J59-Pin_1)'), ('GND', 'GND')]
+01-13 20:27:16 root 332:updating GUI message: 'Replicating text'
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1136:Replicating text
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1143:Replicating text on sheet ['Drivers', 'b2']
+01-13 20:27:16 root 332:updating GUI message: 'Replicating drawings'
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1187:Replicating drawings
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.replicate_layout 1193:Replicating drawings on sheet ['Drivers', 'b2']
+01-13 20:27:16 root 337:updating GUI with: 100
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 256:Replication complete
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 259:Letting the user know there are some issues with replicated design
+01-13 20:27:16 com_github_MitjaNemec_ReplicateLayout.action_replicate_layout 263:Looks like the design has an exotic connectivity that the plugin might not handle properly
+ Make sure that you check the connectivity around:
+Footprint U57, pad 13
+Footprint U57, pad 11
+

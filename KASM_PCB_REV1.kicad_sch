@@ -54,7 +54,7 @@
     (property "Sheetname" "Analog" (at 152.4 128.27 0)
       (effects (font (size 10 10)) (justify left bottom))
     )
-    (property "Sheetfile" "KASM_PCB_ANALOG.kicad_sch" (at 152.4 186.0046 0)
+    (property "Sheetfile" "KASM_PCB_ANALOG.kicad_sch" (at 152.4 201.93 0)
       (effects (font (size 1.27 1.27)) (justify left top))
     )
     (instances
