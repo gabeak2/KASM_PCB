@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.254,
+          "height": 0.508,
+          "width": 0.508
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.19999999999999998
+          "min_clearance": 0.39999999999999997
         }
       },
       "diff_pair_dimensions": [
@@ -173,11 +173,14 @@
       ],
       "track_widths": [
         0.0,
+        0.1,
         0.2,
         0.254,
+        0.3,
         0.4,
         0.6,
-        0.8
+        0.8,
+        1.0
       ],
       "via_dimensions": [
         {
@@ -509,14 +512,6 @@
     [
       "04e958db-aa3d-41e7-905b-1283accbf3a5",
       "Drivers"
-    ],
-    [
-      "80242540-a894-41cd-9271-092fc8314d9a",
-      "Connectors"
-    ],
-    [
-      "8b303a3c-3f2a-43c7-97a7-f3bcfa393950",
-      "Analog"
     ],
     [
       "18dc00ae-3159-4780-b672-12977f79e5ac",
